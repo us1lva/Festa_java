@@ -34,7 +34,7 @@ public class Festinha {
     }
 
     public void informarEndereco() {
-        setEndereco("Rua das Flores, 123, Bairro Centro");
+        setEndereco("Via cerejeiras, 134, jardim hokkaido");
         System.out.println("O endereço da festa é: " + getEndereco());
     }
 
